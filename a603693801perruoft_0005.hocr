@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "a603693801perruoft_0005.png"; bbox 0 0 2554 4140; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 762 1559 1403 1631">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 762 1559 1403 1631">
+     <span class='ocr_line' id='line_1_1' title="bbox 762 1559 1403 1631; baseline 0.003 -2"><span class='ocrx_word' id='word_1_1' title='bbox 762 1616 765 1619; x_wconf 83' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 918 1559 1403 1631; x_wconf 88' lang='lat' dir='ltr'><strong>TRACTATUS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 420 1798 1902 1897">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 420 1798 1902 1897">
+     <span class='ocr_line' id='line_1_2' title="bbox 420 1798 1902 1897; baseline 0.006 -9"><span class='ocrx_word' id='word_1_3' title='bbox 420 1798 586 1889; x_wconf 90' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 673 1799 1033 1893; x_wconf 87' lang='lat' dir='ltr'><strong>VERA</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1131 1801 1902 1897; x_wconf 86' lang='lat' dir='ltr'>RELIGIONE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1021 2078 1308 2119">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1021 2078 1308 2119">
+     <span class='ocr_line' id='line_1_3' title="bbox 1021 2078 1308 2119; baseline 0.007 -3"><span class='ocrx_word' id='word_1_6' title='bbox 1021 2078 1308 2119; x_wconf 64' lang='lat' dir='ltr'><strong>SSSSSSS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 561 2282 1759 2350">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 561 2282 1759 2350">
+     <span class='ocr_line' id='line_1_4' title="bbox 561 2282 1759 2350; baseline 0.007 -8"><span class='ocrx_word' id='word_1_7' title='bbox 561 2282 1022 2346; x_wconf 83' lang='lat' dir='ltr'><strong>INGREDULOS</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1069 2286 1161 2345; x_wconf 93' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1202 2285 1759 2350; x_wconf 86' lang='lat' dir='ltr'><strong>HETERODOXOS.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
